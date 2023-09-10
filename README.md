@@ -20,6 +20,13 @@ If you are using other datasets, then you need to adjust the appropriate paramet
 We provide three datasets in the code, see the folder MSBLS-master/data_set/, and the basic information of the three datasets is as follows.
 
 dataset  |trained set |tested set |labels |N1 |N2 |N3
+
 Norb      |24300        |24300       |5        |50 |10  |10000
+
 MNIST   |60000        |10000       |10      |10 |20  |10000
+
 Fashion |60000        |10000        |10      |50 |20  |10000
+
+Reference:
+
+Xiao-Kai Cao, Chang-Dong Wang, Jian-Huang Lai, Qiong Huang and C. L. Philip Chen. "Multiparty Secure Broad Learning System for Privacy Preserving", TCYB2023.
